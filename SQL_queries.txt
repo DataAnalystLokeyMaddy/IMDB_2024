@@ -1,0 +1,44 @@
+1. Top-rated movies (by Rating)
+SELECT MovieName, Genre, Rating
+FROM movies_2024
+ORDER BY Rating DESC
+LIMIT 10;
+
+2. Most popular movies (by votes)
+SELECT MovieName, Genre, Votes
+FROM movies_2024
+ORDER BY Votes DESC
+LIMIT 10;
+
+3. Average rating by genre
+SELECT Genre, AVG(Rating) AS avg_rating
+FROM movies_2024
+GROUP BY Genre
+ORDER BY avg_rating DESC;
+
+4. Longest duration movies
+SELECT MovieName, Genre, Duration_min
+FROM movies_2024
+ORDER BY Duration_min DESC
+LIMIT 10;
+
+5. Best-rated movies with high votes (quality + popularity)
+SELECT MovieName, Genre, Rating, Votes
+FROM movies_2024
+WHERE Votes > 50000
+ORDER BY Rating DESC
+LIMIT 10;
+
+6. Genre with most movies
+SELECT Genre, COUNT(*) AS movie_count
+FROM movies_2024
+GROUP BY Genre
+ORDER BY movie_count DESC;
+
+7. Correlation check: average duration by genre
+SELECT Genre, AVG(Duration_min) AS avg_duration
+FROM movies_2024
+GROUP BY Genre
+ORDER BY avg_duration DESC;
+
+ 
