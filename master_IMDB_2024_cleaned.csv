@@ -1,0 +1,567 @@
+﻿MovieName,Genre,Rating,Votes,Duration_min
+Mahavatar Narsimha,Action,9.1,33000.0,130.0
+Relay,Action,7.2,1700.0,112.0
+Freaky Tales,Action,6.3,12000.0,107.0
+Dune: Part Two,Action,8.5,661000.0,166.0
+Gladiator II,Action,6.5,271000.0,148.0
+The Beekeeper,Action,6.3,167000.0,105.0
+The Ministry of Ungentlemanly Warfare,Action,6.8,144000.0,122.0
+Deadpool & Wolverine,Action,7.5,524000.0,128.0
+Drive-Away Dolls,Action,5.4,25000.0,84.0
+Carry-On,Action,6.5,178000.0,119.0
+William Tell,Action,5.7,4800.0,134.0
+Furiosa: A Mad Max Saga,Action,7.5,299000.0,148.0
+Rebel Ridge,Action,6.8,95000.0,131.0
+Kraven the Hunter,Action,5.5,71000.0,127.0
+Twisters,Action,6.5,182000.0,122.0
+Kingdom of the Planet of the Apes,Action,6.8,159000.0,145.0
+Civil War,Action,7.0,250000.0,109.0
+The Fall Guy,Action,6.8,233000.0,126.0
+Sonic the Hedgehog 3,Action,6.9,70000.0,110.0
+Road House,Action,6.2,174000.0,121.0
+The Unholy Trinity,Action,5.5,3200.0,95.0
+Venom: The Last Dance,Action,6.0,138000.0,110.0
+The Count of Monte-Cristo,Action,7.6,40000.0,178.0
+The Union,Action,5.5,55000.0,107.0
+Borderlands,Action,4.7,52000.0,101.0
+Old Guy,Action,5.2,4100.0,94.0
+40 Acres,Action,6.5,3500.0,113.0
+Abigail,Action,6.5,103000.0,109.0
+Fight or Flight,Action,6.4,18000.0,102.0
+Madame Web,Action,4.1,106000.0,116.0
+Argylle,Action,5.6,96000.0,139.0
+Elevation,Action,5.6,26000.0,91.0
+Red One,Action,6.3,145000.0,123.0
+Land of Bad,Action,6.6,55000.0,113.0
+Bad Boys: Ride or Die,Action,6.5,105000.0,115.0
+Transformers One,Action,7.6,58000.0,104.0
+Monkey Man,Action,6.8,96000.0,121.0
+Maharaja,Action,8.4,73000.0,141.0
+Arcadian,Action,5.5,25000.0,92.0
+Godzilla x Kong: The New Empire,Action,6.0,127000.0,115.0
+Azrael,Action,5.3,13000.0,86.0
+Damsel,Action,6.1,113000.0,110.0
+Beverly Hills Cop: Axel F,Action,6.4,84000.0,118.0
+The Crow,Action,4.7,38000.0,111.0
+River of Blood,Action,4.8,2400.0,86.0
+Cloud,Action,6.4,2400.0,124.0
+The Lord of the Rings: The War of the Rohirrim,Action,6.3,35000.0,134.0
+Kung Fu Panda 4,Action,6.3,73000.0,94.0
+The Killer,Action,5.7,15000.0,126.0
+The Instigators,Action,6.2,40000.0,101.0
+The Wild Robot,Adventure,8.2,194000.0,102.0
+Sketch,Adventure,7.1,1900.0,93.0
+Flow,Adventure,7.9,92000.0,85.0
+Moana 2,Adventure,6.5,115000.0,100.0
+Mufasa: The Lion King,Adventure,6.6,75000.0,118.0
+Inside Out 2,Adventure,7.5,230000.0,96.0
+The Return,Adventure,6.2,12000.0,116.0
+Despicable Me 4,Adventure,6.2,71000.0,94.0
+Ghostbusters: Frozen Empire,Adventure,6.1,98000.0,115.0
+Paddington in Peru,Adventure,6.6,29000.0,106.0
+Spaceman,Adventure,5.7,45000.0,107.0
+Attack on Titan the Movie: The Last Attack,Adventure,9.2,19000.0,145.0
+Monster Summer,Adventure,5.7,5300.0,97.0
+Atlas,Adventure,5.6,58000.0,118.0
+Uglies,Adventure,4.7,35000.0,100.0
+Kalki 2898 AD,Adventure,7.0,70000.0,180.0
+Survive,Adventure,4.6,3800.0,90.0
+The Garfield Movie,Adventure,5.7,26000.0,101.0
+Night of the Zoopocalypse,Adventure,6.0,1100.0,91.0
+Please Don't Feed the Children,Adventure,4.7,835.0,94.0
+Arthur the King,Adventure,7.0,36000.0,107.0
+Solo Leveling: ReAwakening,Adventure,8.8,15000.0,121.0
+The Courier,Adventure,6.0,4800.0,101.0
+Wallace & Gromit: Vengeance Most Fowl,Adventure,7.5,38000.0,82.0
+Megamind vs. The Doom Syndicate,Adventure,2.4,5900.0,83.0
+Rebel Moon - Part Two: The Scargiver,Adventure,5.3,61000.0,122.0
+Descendants: The Rise of Red,Adventure,4.7,7600.0,95.0
+My Penguin Friend,Adventure,6.8,6100.0,97.0
+Demon Slayer: Kimetsu No Yaiba - To the Hashira Training,Adventure,7.2,9300.0,104.0
+Spermageddon,Animation,5.4,1900.0,80.0
+IF,Animation,6.4,61000.0,104.0
+Memoir of a Snail,Animation,7.8,21000.0,95.0
+Watchmen: Chapter I,Animation,7.1,7500.0,83.0
+The Day the Earth Blew Up: A Looney Tunes Movie,Animation,6.8,7300.0,91.0
+Look Back,Animation,7.8,17000.0,58.0
+Orion and the Dark,Animation,6.3,18000.0,93.0
+The Remarkable Life of Ibelin,Animation,8.2,13000.0,103.0
+Spellbound,Animation,5.5,8200.0,109.0
+Boys Go to Jupiter,Animation,7.0,194.0,90.0
+Mononoke the Movie: The Phantom in the Rain,Animation,6.7,1600.0,89.0
+The Glassworker,Animation,7.1,2100.0,98.0
+Harold and the Purple Crayon,Animation,5.7,9200.0,90.0
+Mars,Animation,6.8,35.0,84.0
+Watchmen: Chapter II,Animation,7.1,3800.0,90.0
+Justice League: Crisis on Infinite Earths - Part One,Animation,6.2,9200.0,93.0
+Dan Da Dan: First Encounter,Animation,8.2,3300.0,83.0
+Doraemon the Movie: Nobita's Earth Symphony,Animation,6.6,1700.0,115.0
+Haikyu!! The Dumpster Battle,Animation,7.7,6900.0,85.0
+Piece by Piece,Animation,6.9,6800.0,93.0
+Justice League: Crisis on Infinite Earths - Part Three,Animation,6.1,5100.0,94.0
+I Am What I Am 2,Animation,7.6,512.0,134.0
+Uma Musume: Pretty Derby - Beginning of a New Era,Animation,7.4,267.0,108.0
+Buffalo Kids,Animation,6.6,844.0,93.0
+White Snake: Afloat,Animation,6.9,637.0,133.0
+200% Wolf,Animation,5.9,1400.0,98.0
+Hitpig,Animation,5.2,1200.0,86.0
+My Hero Academia: You're Next,Animation,7.0,2900.0,110.0
+Crayon Shin-chan: Our Dinosaur Diary,Animation,6.6,673.0,106.0
+That Christmas,Animation,6.8,17000.0,91.0
+Dragonkeeper,Animation,5.7,1900.0,98.0
+Ultraman: Rising,Animation,6.9,6900.0,117.0
+Justice League: Crisis on Infinite Earths - Part Two,Animation,5.6,5900.0,94.0
+A Complete Unknown,Biography,7.3,101000.0,141.0
+I'm Still Here,Biography,8.2,118000.0,137.0
+The Apprentice,Biography,7.1,63000.0,122.0
+Saturday Night,Biography,6.9,35000.0,109.0
+Better Man,Biography,7.5,38000.0,135.0
+Maria,Biography,6.4,22000.0,124.0
+Queer,Biography,6.4,25000.0,137.0
+Nr. 24,Biography,7.5,17000.0,111.0
+Bob Marley: One Love,Biography,6.2,36000.0,107.0
+Young Woman and the Sea,Biography,7.5,18000.0,129.0
+Scoop,Biography,6.5,21000.0,102.0
+Joy,Biography,7.1,11000.0,115.0
+Queen of the Ring,Biography,6.3,2400.0,129.0
+Ordinary Angels,Biography,7.4,17000.0,118.0
+Unfrosted,Biography,5.5,36000.0,97.0
+Amaran,Biography,8.1,21000.0,167.0
+Back to Black,Biography,6.3,28000.0,122.0
+Reagan,Biography,6.1,12000.0,141.0
+Audrey's Children,Biography,7.1,482.0,110.0
+Pavements,Biography,7.1,748.0,128.0
+Cabrini,Biography,7.3,9300.0,142.0
+El 47,Biography,7.2,4200.0,110.0
+Winner,Biography,6.5,2900.0,103.0
+The Fire Inside,Biography,6.7,3200.0,109.0
+Monsieur Aznavour,Biography,7.3,3200.0,133.0
+Bonhoeffer: Pastor. Spy. Assassin.,Biography,6.2,4100.0,133.0
+Super/Man: The Christopher Reeve Story,Biography,8.0,11000.0,104.0
+Midas Man,Biography,6.4,1800.0,112.0
+Rob Peace,Biography,6.6,2400.0,120.0
+Race for Glory: Audi vs. Lancia,Biography,5.8,5300.0,109.0
+Chandu Champion,Biography,7.8,35000.0,142.0
+Jim Henson: Idea Man,Biography,7.7,4000.0,111.0
+Music by John Williams,Biography,8.2,5300.0,105.0
+Niki,Biography,6.0,533.0,98.0
+Avicii - I'm Tim,Biography,7.7,7700.0,95.0
+Saint-Exupéry,Biography,5.4,694.0,98.0
+Liza: A Truly Terrific Absolutely True Story,Biography,7.5,572.0,104.0
+The Bibi Files,Biography,7.6,1500.0,115.0
+The Beach Boys,Biography,7.1,2300.0,113.0
+One to One: John & Yoko,Biography,7.3,802.0,101.0
+Harbin,Biography,6.2,1200.0,108.0
+Becoming Madonna,Biography,6.8,492.0,91.0
+Goebbels and the Führer,Biography,6.7,2900.0,135.0
+Riefenstahl,Biography,7.1,973.0,115.0
+Limonov: The Ballad of Eddie,Biography,5.9,1200.0,138.0
+Maidaan,Biography,7.9,23000.0,181.0
+I'm Your Venus,Biography,7.1,561.0,85.0
+Anora,Comedy,7.4,221000.0,139.0
+Friendship,Comedy,6.9,20000.0,100.0
+Beetlejuice Beetlejuice,Comedy,6.6,160000.0,105.0
+A Real Pain,Comedy,7.1,112000.0,90.0
+The Idea of You,Comedy,6.3,77000.0,115.0
+Kinds of Kindness,Comedy,6.5,63000.0,164.0
+Challengers,Comedy,7.0,163000.0,131.0
+Riff Raff,Comedy,5.7,6200.0,103.0
+It's What's Inside,Comedy,6.6,46000.0,103.0
+Mean Girls,Comedy,5.5,39000.0,112.0
+My Old Ass,Comedy,6.9,44000.0,89.0
+The Friend,Comedy,6.4,4200.0,119.0
+Miller's Girl,Comedy,5.2,25000.0,93.0
+Bob Trevino Likes It,Comedy,7.5,4000.0,101.0
+Snack Shack,Comedy,7.0,14000.0,112.0
+Fly Me to the Moon,Comedy,6.6,54000.0,132.0
+Get Away,Comedy,5.3,8900.0,86.0
+Long Distance,Comedy,5.7,5400.0,86.0
+A Nice Indian Boy,Comedy,7.4,3900.0,96.0
+Upgraded,Comedy,6.1,31000.0,104.0
+Nightbitch,Comedy,5.5,22000.0,99.0
+A Different Man,Comedy,6.9,34000.0,112.0
+Ricky Stanicky,Comedy,6.2,59000.0,113.0
+A Family Affair,Comedy,5.4,38000.0,111.0
+Longlegs,Crime,6.6,202000.0,101.0
+The Order,Crime,6.8,54000.0,116.0
+Juror #2,Crime,7.0,112000.0,114.0
+Wolfs,Crime,6.5,92000.0,108.0
+Trap,Crime,5.8,149000.0,105.0
+MaXXXine,Crime,6.2,77000.0,103.0
+Barron's Cove,Crime,6.0,733.0,116.0
+The Girl with the Needle,Crime,7.5,16000.0,123.0
+Love Lies Bleeding,Crime,6.6,60000.0,104.0
+Sleeping Dogs,Crime,6.2,24000.0,110.0
+Emilia Pérez,Crime,5.4,93000.0,132.0
+The Menendez Brothers,Crime,7.0,10000.0,119.0
+Lucky Baskhar,Crime,8.0,36000.0,148.0
+The Shadow Strays,Crime,6.5,10000.0,144.0
+King Ivory,Crime,6.3,449.0,130.0
+Force of Nature: The Dry 2,Crime,5.9,8100.0,120.0
+The Seed of the Sacred Fig,Crime,7.6,17000.0,167.0
+Pushpa: The Rule - Part 2,Crime,6.1,61000.0,201.0
+Lift,Crime,5.5,51000.0,107.0
+The Thicket,Crime,5.8,4500.0,108.0
+The Trainer,Crime,7.0,73.0,95.0
+Long Gone Heroes,Crime,5.1,1600.0,101.0
+Absolution,Crime,5.2,9600.0,112.0
+Misericordia,Crime,6.8,3300.0,104.0
+Brothers,Crime,5.4,14000.0,89.0
+Greedy People,Crime,6.2,13000.0,112.0
+Boneyard,Crime,4.1,5500.0,96.0
+Beating Hearts,Crime,7.0,6600.0,166.0
+The Silent Hour,Crime,6.1,8900.0,99.0
+Armor,Crime,3.6,5000.0,89.0
+Dead Mail,Crime,6.0,2600.0,106.0
+Trigger Warning,Crime,4.6,20000.0,106.0
+Devo,Documentary,7.6,615.0,94.0
+No Other Land,Documentary,8.3,15000.0,92.0
+Will & Harper,Documentary,7.4,13000.0,114.0
+Satisfied,Documentary,7.7,18.0,84.0
+A New Kind of Wilderness,Documentary,7.6,1500.0,84.0
+Apocalypse in the Tropics,Documentary,7.6,1800.0,110.0
+Chain Reactions,Documentary,7.2,137.0,103.0
+Make It Look Real,Documentary,6.8,43.0,78.0
+The Lost Children,Documentary,7.0,3100.0,96.0
+2073,Documentary,5.1,3500.0,85.0
+My Undesirable Friends: Part I - Last Air in Moscow,Documentary,8.0,26.0,324.0
+Buy Now! The Shopping Conspiracy,Documentary,6.7,7200.0,84.0
+Checkpoint Zoo,Documentary,7.8,81.0,103.0
+Golden Opulence: 500 Years of Luxury in Anatolia,Documentary,9.5,1600.0,50.0
+Andrea Bocelli: Because I Believe,Documentary,7.3,27.0,107.0
+Architecton,Documentary,6.4,554.0,98.0
+The Last Republican,Documentary,7.5,82.0,90.0
+Mistress Dispeller,Documentary,7.0,182.0,94.0
+Beatles '64,Documentary,7.2,2800.0,106.0
+Lover Stalker Killer,Documentary,7.0,14000.0,90.0
+Behind the Lines,Documentary,8.7,36.0,107.0
+The Program,Documentary,7.1,943.0,102.0
+Songs from the Hole,Documentary,6.2,117.0,97.0
+Soundtrack to a Coup d'Etat,Documentary,7.8,3400.0,150.0
+Am I Racist?,Documentary,6.6,17000.0,100.0
+Black Box Diaries,Documentary,7.5,3900.0,102.0
+Sugarcane,Documentary,7.0,3600.0,107.0
+Yacht Rock: A Dockumentary,Documentary,7.6,2100.0,95.0
+"There Was, There Was Not",Documentary,8.3,133.0,94.0
+Johatsu: Into Thin Air,Documentary,6.4,257.0,86.0
+Billy & Molly: An Otter Love Story,Documentary,8.0,2200.0,77.0
+What Jennifer Did,Documentary,6.1,12000.0,87.0
+The Thinking Game,Documentary,7.6,381.0,84.0
+The War on Truth,Documentary,8.2,7.0,
+Grand Theft Hamlet,Documentary,6.9,2300.0,89.0
+Martha,Documentary,7.2,4300.0,115.0
+The Greatest Night in Pop,Documentary,7.9,15000.0,96.0
+Vice Is Broke,Documentary,7.2,33.0,102.0
+The Life of Chuck,Drama,7.4,25000.0,111.0
+The Substance,Drama,7.2,334000.0,141.0
+Babygirl,Drama,5.8,70000.0,114.0
+On Swift Horses,Drama,6.0,3300.0,119.0
+The Brutalist,Drama,7.3,100000.0,216.0
+Conclave,Drama,7.4,217000.0,120.0
+Speak No Evil,Drama,6.8,117000.0,110.0
+We Live in Time,Drama,7.0,62000.0,108.0
+Small Things Like These,Drama,6.7,29000.0,98.0
+The Penguin Lessons,Drama,7.1,7000.0,111.0
+A Sacrifice,Drama,5.0,6200.0,94.0
+The Assessment,Drama,6.6,17000.0,114.0
+Presence,Drama,6.1,35000.0,84.0
+It Ends with Us,Drama,6.3,92000.0,130.0
+The Last Showgirl,Drama,6.5,17000.0,88.0
+September 5,Drama,7.1,30000.0,95.0
+Joker: Folie à Deux,Drama,5.2,170000.0,138.0
+Witchboard,Drama,5.7,454.0,112.0
+Sharp Corner,Drama,5.9,2800.0,110.0
+Parthenope,Drama,6.6,16000.0,137.0
+Megalopolis,Drama,4.7,38000.0,138.0
+Caddo Lake,Drama,6.8,48000.0,103.0
+A Quiet Place: Day One,Drama,6.3,160000.0,99.0
+How to Make Millions Before Grandma Dies,Family,7.9,19000.0,125.0
+Meiyazhagan,Family,8.4,18000.0,177.0
+Young Hearts,Family,7.9,6500.0,99.0
+Girl Haunts Boy,Family,6.3,3500.0,100.0
+The Forge,Family,6.7,5400.0,124.0
+Woodwalkers,Family,5.1,810.0,103.0
+Bibi Rajni,Family,8.4,754.0,143.0
+Unsung Hero,Family,7.0,5300.0,113.0
+Aamar Boss,Family,8.0,577.0,139.0
+A Brother and 7 Siblings,Family,8.1,1900.0,129.0
+You Gotta Believe,Family,5.8,1500.0,104.0
+The Thundermans Return,Family,5.0,2000.0,70.0
+Big World,Family,7.3,1600.0,131.0
+Runt,Family,6.4,619.0,91.0
+Thelma the Unicorn,Family,5.7,3100.0,93.0
+Saving Bikini Bottom: The Sandy Cheeks Movie,Family,3.7,4200.0,82.0
+Der Buchspazierer,Family,7.2,892.0,98.0
+Bambi: A Tale of Life in the Woods,Family,5.6,315.0,78.0
+Woody Woodpecker Goes to Camp,Family,4.5,2700.0,100.0
+Dalia and the Red Book,Family,5.9,183.0,107.0
+Nosferatu,Fantasy,7.2,229000.0,132.0
+Wicked,Fantasy,7.4,182000.0,160.0
+The Watchers,Fantasy,5.7,61000.0,102.0
+The Wonderful Story of Henry Sugar and Three More,Fantasy,7.1,9500.0,88.0
+Went Up the Hill,Fantasy,6.1,215.0,100.0
+Irish Wish,Fantasy,5.2,22000.0,93.0
+The Master and Margarita,Fantasy,7.1,5500.0,156.0
+The Balconettes,Fantasy,5.8,1800.0,104.0
+The End,Fantasy,5.4,2600.0,148.0
+The Tearsmith,Fantasy,5.2,13000.0,103.0
+Tim Travers & the Time Travelers Paradox,Fantasy,5.6,574.0,95.0
+Eden,History,6.4,13000.0,129.0
+The Six Triple Eight,History,6.7,29000.0,127.0
+Harvest,History,6.0,1000.0,133.0
+Blitz,History,6.2,17000.0,120.0
+The Children's Train,History,7.4,8500.0,106.0
+Uprising,History,6.6,6200.0,126.0
+Vermiglio,History,6.9,5600.0,119.0
+The Devil's Bath,History,6.6,7100.0,121.0
+Thangalaan,History,6.5,6900.0,156.0
+Escape from Germany,History,5.4,1100.0,97.0
+Grand Tour,History,6.5,2300.0,129.0
+The New Year That Never Came,History,8.1,5700.0,138.0
+Before Dawn,History,5.4,1200.0,101.0
+Accident or Conspiracy: Godhra,History,7.3,826.0,133.0
+Being Maria,History,6.1,937.0,100.0
+The Flood,History,6.4,389.0,101.0
+In the Fire of War,History,6.6,306.0,115.0
+The Damned,History,5.4,985.0,89.0
+In Her Place,History,6.3,7200.0,96.0
+The Great Lillian Hall,History,7.3,2200.0,110.0
+"From Hilde, with Love",History,6.9,1300.0,125.0
+Bushido,History,6.8,553.0,129.0
+11 Rebels,History,6.2,893.0,155.0
+The Last Front,History,5.5,667.0,98.0
+Apollo 13: Survival,History,7.4,2700.0,98.0
+Waves,History,7.8,2200.0,131.0
+Bir Cumhuriyet Sarkisi,History,7.4,1500.0,128.0
+Alien: Romulus,Horror,7.1,263000.0,119.0
+Heretic,Horror,7.0,183000.0,111.0
+Smile 2,Horror,6.7,122000.0,127.0
+Oddity,Horror,6.7,50000.0,98.0
+Terrifier 3,Horror,6.3,54000.0,125.0
+The A-Frame,Horror,5.4,173.0,82.0
+Don't Move,Horror,5.8,42000.0,92.0
+Salem's Lot,Horror,5.6,37000.0,114.0
+Noise,Horror,5.8,306.0,93.0
+Bone Lake,Horror,6.8,71.0,94.0
+Immaculate,Horror,5.8,56000.0,89.0
+The Deliverance,Horror,5.1,24000.0,112.0
+Cuckoo,Horror,5.7,31000.0,102.0
+Apartment 7A,Horror,5.9,18000.0,107.0
+MadS,Horror,6.4,9700.0,89.0
+Lembayung,Horror,5.9,821.0,123.0
+The Rule of Jenny Pen,Horror,6.2,7700.0,104.0
+Time Cut,Horror,5.0,21000.0,91.0
+Night Swim,Horror,4.7,29000.0,98.0
+Y2K,Horror,4.8,17000.0,91.0
+The First Omen,Horror,6.5,67000.0,119.0
+Tarot,Horror,4.8,34000.0,92.0
+The Shrouds,Horror,5.8,5700.0,120.0
+Hellboy: The Crooked Man,Horror,4.5,15000.0,99.0
+Monster Island,Horror,5.2,1300.0,83.0
+Shelby Oaks,Horror,5.4,362.0,99.0
+Strange Harvest,Horror,6.6,422.0,94.0
+Sooryavansham,Musical,7.1,261.0,137.0
+The Merry Gentlemen,Musical,4.8,10000.0,87.0
+How Could I Live Without You?,Musical,6.9,1200.0,105.0
+Girl from the North Country,Musical,6.7,87.0,
+The Best Friend,Musical,6.3,183.0,96.0
+Everybody Loves Touda,Musical,6.4,554.0,102.0
+This Is Me... Now,Musical,4.1,7200.0,65.0
+El Sobreviviente Elizalde,Musical,7.1,21.0,
+Indian 2,Musical,3.8,17000.0,
+The Night Before Christmas in Wonderland,Musical,6.3,533.0,80.0
+Noah's Ark,Musical,4.3,718.0,96.0
+The Premiere,Musical,8.7,27.0,106.0
+The Deb,Musical,7.4,74.0,121.0
+Varshangalkku Shesham,Musical,6.6,4800.0,166.0
+School of Magical Animals 3,Musical,5.7,389.0,105.0
+"Kiss Me, Kate: The Musical",Musical,7.1,107.0,161.0
+Victory,Musical,6.5,381.0,120.0
+Polvo serán,Musical,6.6,329.0,106.0
+Shannon Matthews the Musical the Movie,Musical,7.4,215.0,91.0
+Dongeng Sang Kancil,Musical,6.6,235.0,99.0
+Queens of Drama,Musical,6.2,250.0,114.0
+The Opera! Arie per un'eclissi,Musical,6.3,154.0,106.0
+First Nights at Freddy's,Musical,9.0,22.0,98.0
+Bonnie and Clyde: The Musical,Musical,7.0,121.0,150.0
+Maria Callas,Musical,,,60.0
+Magic,Musical,7.3,7.0,90.0
+Chainsaws Were Singing,Musical,7.2,395.0,117.0
+Dans la cuisine des Nguyen,Musical,6.2,120.0,99.0
+Kajolrekha,Musical,6.4,204.0,156.0
+Gaga Chromatica Ball,Musical,8.1,2100.0,117.0
+Fox & Hare Save the Forest,Musical,5.9,231.0,71.0
+(S)KiDS,Musical,8.2,166.0,85.0
+Joli joli,Musical,5.5,164.0,116.0
+Peas and Carrots,Musical,3.8,6.0,96.0
+Eating Me Up,Musical,8.1,297.0,104.0
+Pattaapakal,Musical,2.6,233.0,104.0
+Bring on the Damned!,Musical,4.9,59.0,114.0
+Blink Twice,Mystery,6.5,116000.0,102.0
+I Saw the TV Glow,Mystery,5.8,40000.0,100.0
+F*** Marry Kill,Mystery,5.4,4100.0,97.0
+Dirty Boy,Mystery,7.5,51.0,98.0
+Exhuma,Mystery,6.9,26000.0,134.0
+Turtles All the Way Down,Mystery,6.6,7900.0,111.0
+Die Alone,Mystery,5.8,4300.0,90.0
+Skincare,Mystery,5.7,5300.0,96.0
+Kishkindha Kaandam,Mystery,8.0,14000.0,133.0
+Slingshot,Mystery,5.7,11000.0,108.0
+Saint Clare,Mystery,4.6,724.0,92.0
+Blackwater Lane,Mystery,4.6,2500.0,108.0
+Killer Heat,Mystery,5.6,14000.0,95.0
+Mr. K,Mystery,5.4,1300.0,94.0
+Black,Mystery,7.1,3000.0,115.0
+Outbreak,Mystery,4.4,1500.0,88.0
+Do Patti,Mystery,6.3,70000.0,126.0
+Imaginary,Mystery,4.7,18000.0,104.0
+Winter Spring Summer or Fall,Romance,6.1,3800.0,97.0
+Jane Austen Wrecked My Life,Romance,6.3,1400.0,98.0
+Emmanuelle,Romance,4.1,2100.0,107.0
+All We Imagine as Light,Romance,7.1,12000.0,118.0
+Culpa tuya,Romance,5.2,15000.0,118.0
+Dreams,Romance,7.4,1400.0,110.0
+Ask Me What You Want,Romance,3.9,1500.0,114.0
+Our Little Secret,Romance,5.7,24000.0,101.0
+Lonely Planet,Romance,5.7,12000.0,94.0
+Bonjour Tristesse,Romance,5.7,773.0,110.0
+Mother of the Bride,Romance,4.8,17000.0,88.0
+Love,Romance,7.3,920.0,119.0
+Lisa Frankenstein,Romance,6.1,29000.0,101.0
+The Greatest Hits,Romance,6.2,8100.0,94.0
+Girls Will Be Girls,Romance,7.1,2900.0,118.0
+Touch,Romance,7.4,6300.0,121.0
+Vulgar,Romance,5.0,254.0,103.0
+Another End,Romance,6.4,898.0,119.0
+Lilies Not for Me,Romance,7.0,923.0,99.0
+Sex,Romance,6.6,1800.0,118.0
+Subservience,Sci-fi,5.4,32000.0,106.0
+In Vitro,Sci-fi,5.6,414.0,89.0
+Werewolves,Sci-fi,4.4,8000.0,93.0
+Jimmy and Stiggs,Sci-fi,6.0,267.0,79.0
+Apocalypse Z: The Beginning of the End,Sci-fi,6.1,22000.0,117.0
+The Platform 2,Sci-fi,4.9,43000.0,99.0
+Levels,Sci-fi,5.0,1700.0,93.0
+Unstoppable,Sport,6.8,4700.0,116.0
+Under Paris,Sport,5.2,38000.0,104.0
+The Beautiful Game,Sport,6.3,8400.0,125.0
+Sunshine,Sport,7.6,174.0,91.0
+Kill the Jockey,Sport,6.4,2100.0,96.0
+Lal Salaam,Sport,4.5,1500.0,150.0
+Sweet Dreams,Sport,5.4,1600.0,95.0
+Uranus 2324,Sport,6.4,5100.0,130.0
+Lubber Pandhu,Sport,8.1,7600.0,146.0
+Yolo,Sport,6.9,4000.0,129.0
+Rez Ball,Sport,6.4,2700.0,111.0
+Moon,Sport,6.8,669.0,92.0
+4 Zéros,Sport,3.6,237.0,105.0
+Blue Lock: Episode Nagi,Sport,6.6,2800.0,91.0
+Block Pass,Sport,6.9,576.0,104.0
+Mr. & Mrs. Mahi,Sport,5.9,16000.0,139.0
+My Sunshine,Sport,7.0,1500.0,100.0
+El Hareefa,Sport,6.8,1300.0,117.0
+Cup,Sport,8.6,89.0,146.0
+Bionic,Sport,4.3,1800.0,110.0
+Giannis: The Marvelous Journey,Sport,8.3,1800.0,109.0
+El Hareefa 2: El Remontada,Sport,6.3,634.0,130.0
+Pegasus 2,Sport,6.9,1400.0,121.0
+Grace by Night,Sport,6.5,52.0,136.0
+The Swedish Torpedo,Sport,5.9,342.0,120.0
+Boxer,Sport,6.4,1400.0,150.0
+Return to the Ring,Sport,5.4,773.0,106.0
+The Underdoggs,Sport,5.6,4700.0,96.0
+American Warrior,Sport,8.7,33.0,93.0
+Havnaa,Sport,6.9,423.0,110.0
+Sixty Minutes,Sport,5.7,5400.0,88.0
+The Streak,Sport,9.3,11.0,87.0
+Crakk: Jeetega... Toh Jiyegaa,Sport,4.7,6500.0,154.0
+Baki Hanma VS Kengan Ashura,Sport,5.7,2100.0,62.0
+Vijay 69,Sport,6.1,1300.0,112.0
+Samia,Sport,6.7,192.0,102.0
+Balestra,Sport,5.1,553.0,145.0
+Little Wing,Sport,6.1,961.0,100.0
+The Surfer,Thriller,6.0,14000.0,100.0
+Dirty Angels,War,4.5,4900.0,104.0
+My Dead Friend Zoe,War,6.5,3100.0,103.0
+Bau: Artist at War,War,7.4,70.0,130.0
+"Canadian, Sniper",War,3.4,382.0,83.0
+The Witch: Revenge,War,5.3,916.0,100.0
+Without Blood,War,7.3,118.0,91.0
+Russians at War,War,2.2,1100.0,134.0
+Laws of Man,War,4.9,1400.0,98.0
+Porcelain War,War,7.1,1300.0,87.0
+Ei koskaan yksin,War,7.0,508.0,85.0
+Quisling: The Final Days,War,7.1,1400.0,146.0
+Der Deserteur,War,8.1,43.0,93.0
+Captain Miller,War,7.2,14000.0,157.0
+Ataturk II: 1881-1919,War,8.8,2500.0,141.0
+Intercepted,War,8.0,622.0,95.0
+Invasion,War,4.8,778.0,91.0
+Murder Company,War,3.6,1700.0,86.0
+24 Hours to D-Day,War,2.8,145.0,83.0
+Way Home,War,6.4,1600.0,98.0
+The Ballad of Davy Crockett,War,4.6,278.0,96.0
+"Love, Courage and the Battle of Bushy Run",War,5.0,202.0,113.0
+Call of Duty,War,8.0,14.0,
+Conquer: Lahad Datu,War,6.6,577.0,120.0
+Dharmarakshak Mahaveer Chhatrapati Sambhaji Maharaj,War,8.3,684.0,174.0
+The Friendly,War,8.8,42.0,101.0
+Kang Mak,War,6.4,936.0,122.0
+Decoded,War,5.7,485.0,156.0
+All the Lost Ones,War,3.6,283.0,106.0
+The Shamrock Spitfire,War,5.1,526.0,108.0
+Battlefield,War,6.2,741.0,104.0
+The Volunteers: The Battle of Life and Death,War,6.1,313.0,144.0
+Kargil 1999- The Untold Story of the Indian Air Force,War,8.3,23.0,
+The Yin Yang Master Zero,War,5.7,310.0,112.0
+Fortunes of War,War,3.5,187.0,85.0
+Chhava,War,8.4,2300.0,51.0
+Hitler,War,5.2,324.0,128.0
+Peter Brook's the Mahabharata (8K),War,8.1,11.0,173.0
+Horizon: An American Saga - Chapter 1,Western,6.6,42000.0,181.0
+Horizon: An American Saga - Chapter 2,Western,7.1,1500.0,190.0
+Rust,Western,5.5,3200.0,139.0
+Pedro Páramo,Western,6.3,3200.0,130.0
+Bitter Gold,Western,7.6,98.0,83.0
+Wynonna Earp: Vengeance,Western,5.6,1800.0,96.0
+Calamity Jane,Western,4.4,819.0,95.0
+Golden Kamuy,Western,6.3,2700.0,127.0
+Outlaw Posse,Western,4.3,564.0,108.0
+Desert Fiends,Western,4.5,978.0,106.0
+Seven Cemeteries,Western,4.6,680.0,84.0
+The Night They Came Home,Western,3.6,470.0,105.0
+Was Once a Hero,Western,8.5,68.0,
+The Guardsmen,Western,3.4,196.0,73.0
+They Call Her Death,Western,5.4,233.0,92.0
+Same Old West,Western,7.6,438.0,98.0
+Adiós al amigo,Western,8.0,52.0,118.0
+Eye for an Eye 2,Western,6.6,594.0,90.0
+Taken from Rio Bravo,Western,3.0,343.0,80.0
+Over the Red River,Western,3.7,104.0,83.0
+Ghosts of Red Ridge,Western,3.3,191.0,81.0
+Escanyapobres,Western,6.2,99.0,102.0
+Bolero,Western,3.0,31.0,
+Malaikottai Vaaliban,Western,6.0,4200.0,156.0
+Andromeda: 1883,Western,3.9,20.0,75.0
+Paradise,Western,6.9,83.0,83.0
+Unnatural,Western,3.7,149.0,103.0
+Lady Outlaw,Western,6.5,27.0,104.0
+Harsh Treatment,Western,8.3,16.0,
+The Ecstasy of Gold: The Treasure of Jesse James,Western,5.6,21.0,90.0
+Joe Crist,Western,4.0,517.0,53.0
+Last Flamingo of the Red Summer Sunset,Western,8.8,14.0,80.0
+Doc Holliday 2,Western,6.1,12.0,
+Coyote Woman,Western,2.1,78.0,110.0
+Searching for the Elephant,Western,5.8,38.0,116.0
+Fyre Rises,Western,6.0,330.0,110.0
+The Guardsmen: Part 3,Western,4.2,87.0,
+Doc Holliday 3,Western,5.0,10.0,
+Astral Plane Drifter,Western,8.8,33.0,
+Dans l'ombre de Marlow,Western,,,80.0
+Six Guns for Hire,Western,,,
+The Dakota War: Revenge,Western,,,92.0
+In Search of Bass Reeves,Western,6.1,62.0,105.0
+Bo Nan Za,Western,9.1,29.0,61.0
+Death After Dusk,Western,5.6,97.0,140.0
+The Film Café,Western,,,
+My Redneck Neighbor: Chapter 1 - The Rednecks Are Coming,Western,5.3,12.0,74.0
